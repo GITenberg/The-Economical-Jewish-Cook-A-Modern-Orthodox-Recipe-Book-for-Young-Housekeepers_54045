@@ -1,5 +1,8 @@
 _repo: The-Economical-Jewish-Cook-A-Modern-Orthodox-Recipe-Book-for-Young-Housekeepers_54045
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54045-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Cohen, Edith B.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47676'
     url: http://www.gutenberg.org/2009/agents/47676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54045#The-Economical-Jewish-Cook-A-Modern-Orthodox-Recipe-Book-for-Young-Housekeepers
 gutenberg_issued: '2017-01-24'
 gutenberg_type: Text
 identifiers:
